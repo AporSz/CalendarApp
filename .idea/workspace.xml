@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baeb4d1d-6584-410b-81ad-82b5df94eed5" name="Changes" comment="NEW TEST">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/androidTest/java/com/example/calendarapp/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/androidTest/java/com/example/calendarapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/CalendarScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/CalendarScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/model/Event.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/model/Event.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/persistence/EventDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/persistence/EventDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/persistence/EventRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/persistence/EventRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/persistence/EventRoomDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/persistence/EventRoomDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/AddNewEvent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/AddNewEvent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/CalendarApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/CalendarApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/CalendarUiState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/CalendarUiState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/EventViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/EventViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/StartScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/StartScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/UpdateEvent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/UpdateEvent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/theme/Color.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/utils/DateUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/utils/DateUtils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/utils/InMemoryRepoUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/java/com/example/calendarapp/utils/InMemoryRepoUtils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/app/src/test/java/com/example/calendarapp/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/app/src/test/java/com/example/calendarapp/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/native/CalendarApp/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/native/CalendarApp/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/analysis_options.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/analysis_options.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/kotlin/com/example/calendarapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/kotlin/com/example/calendarapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/android/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/android/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/ios/RunnerTests/RunnerTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/addscreen/screens/addscreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/addscreen/screens/addscreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/models/event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/models/event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/repository/event_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/repository/event_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/screens/homescreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/screens/homescreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/utils/date_utils.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/utils/date_utils.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/viewmodel/calendar_viewmodel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/viewmodel/calendar_viewmodel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/widgets/calendar_grid.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/widgets/calendar_grid.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/widgets/calendar_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/widgets/calendar_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/widgets/event_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/homescreen/widgets/event_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/lib/updatescreen/screens/updatescreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/lib/updatescreen/screens/updatescreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/linux/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/linux/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/linux/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/linux/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/linux/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/linux/runner/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/linux/runner/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/linux/runner/main.cc" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/linux/runner/main.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/linux/runner/my_application.cc" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/linux/runner/my_application.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/linux/runner/my_application.h" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/linux/runner/my_application.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Configs/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/DebugProfile.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/MainFlutterWindow.swift" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Release.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/Runner/Release.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/macos/RunnerTests/RunnerTests.swift" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/web/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/flutter/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/Runner.rc" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/Runner.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/flutter_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/flutter_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/flutter_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/resource.h" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/resource.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/runner.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/utils.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/utils.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/utils.h" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/utils.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/win32_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/win32_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/win32_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/non-native/calendarapp/windows/runner/win32_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/xzero/xzero/ctrl/EventController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/xzero/xzero/ctrl/EventController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/xzero/xzero/model/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/xzero/xzero/model/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/xzero/xzero/repo/EventsRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/xzero/xzero/repo/EventsRepo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AporSzakacs&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ma-cs-ubbcluj-ro/crud-project-AporSzakacs.git&quot;,
+    &quot;accountId&quot;: &quot;d7750035-5471-4947-9cab-7b073ebb685f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="345t08wHttTjI3mZbjsmN2Trsfz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/apor/Documents/My_Things/projects/calendar_app",
+    "settings.editor.selected.configurable": "application.passwordSafe",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baeb4d1d-6584-410b-81ad-82b5df94eed5" name="Changes" comment="" />
+      <created>1760515035171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760515035171</updated>
+    </task>
+    <task id="LOCAL-00001" summary="TEST">
+      <option name="closed" value="true" />
+      <created>1760800648879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760800648879</updated>
+    </task>
+    <task id="LOCAL-00002" summary="NEW TEST">
+      <option name="closed" value="true" />
+      <created>1760805521720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760805521720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEST" />
+    <MESSAGE value="NEW TEST" />
+    <option name="LAST_COMMIT_MESSAGE" value="NEW TEST" />
+  </component>
+</project>
