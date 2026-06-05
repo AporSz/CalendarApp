@@ -1,4 +1,4 @@
-Cross platform calendar app for personal use.
+Cross-platform calendar app for personal use.
 
 Still in development.
 
