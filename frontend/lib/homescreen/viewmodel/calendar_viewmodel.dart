@@ -102,7 +102,7 @@ class CalendarViewmodel extends ChangeNotifier {
   }
 
   Future<void> addEvent(String title, String description, DateTime startDate, DateTime endDate, bool repeating, Color color, bool notifyMe) async {
-    await _eventRepository.createEvent(title, description, startDate, endDate, repeating, color, notifyMe);
+     _eventRepository.createEvent(title, description, startDate, endDate, repeating, color, notifyMe);
     _refreshEvents();
     notifyListeners();
   }

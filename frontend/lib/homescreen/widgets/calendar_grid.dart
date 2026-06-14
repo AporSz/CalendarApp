@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../utils/date_utils.dart';
 
 class CalendarGrid extends StatelessWidget {
